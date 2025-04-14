@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there! 👋
 
+I'm **Harry Reyes Nieva**. I'm a postdoctoral research scientist at [Columbia University Irving Medical Center](https://www.cuimc.columbia.edu/). I completed my PhD in the [Department of Biomedical Informatics](https://www.dbmi.columbia.edu/) at Columbia where I was advised by Noémie Elhadad. For most of my PhD, I was also a Visiting Postgraduate Research Fellow at [Harvard Medical School](https://hms.harvard.edu/). My research in clinical and public health informatics focuses on leveraging human-centered artificial intelligence to advance precision health, in particular development of systematic, scalable, data-driven approaches to improve human health and well-being.
 <!--
 **harryreyesnieva/harryreyesnieva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ My work often examines, develops, and applies approaches involving machine learning, natural language processing, and spatio-temporal analysis in addition to traditional biostatistics and epidemiology. I am particularly interested in using and interrogating multimodal data sources and the vast toolbox that computational learning offers to better understand, improve, and facilitate study of health in populations and communities.
+
 -->
